@@ -1,0 +1,2 @@
+vpc is is: "vpc-0de905a05d3d6442c"
+igw is is: "igw-09505acd28f766344"
